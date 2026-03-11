@@ -46,7 +46,7 @@ export default function AboutPage() {
           className="absolute inset-0 bg-cover bg-center opacity-20"
           style={{
             backgroundImage:
-              "url(https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1920&h=600&fit=crop)",
+              "url(https://images.unsplash.com/photo-1726589004565-bedfba94d3a2?w=1920&h=600&fit=crop)",
           }}
         />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -99,7 +99,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-[450px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&h=600&fit=crop"
+                src="https://plus.unsplash.com/premium_photo-1661824784454-ed42a4f906ed?w=800&h=600&fit=crop"
                 alt="Akbar Construction team at work"
                 fill
                 className="object-cover"

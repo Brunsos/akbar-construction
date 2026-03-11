@@ -90,8 +90,8 @@ export default function Hero() {
 
             <div className="relative rounded-2xl overflow-hidden shadow-2xl ring-1 ring-white/10">
               <Image
-                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=620&h=700&fit=crop"
-                alt="Quality home built by Akbar Construction"
+                src="/garage.jpg"
+                alt="Garage built by Akbar Construction in Regina, SK"
                 width={620}
                 height={700}
                 className="object-cover w-full"
